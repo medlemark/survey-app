@@ -8,7 +8,7 @@
   <link rel="stylesheet" type="text/css" href="<?php echo site_url('assets/css/bootstrap.css'); ?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo site_url('assets/css/custom.css'); ?>">
   <script src="<?php echo site_url('assets/js/jquery.min.js'); ?>" type="text/javascript" charset="utf-8"></script>
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtuRsGv9g6__ksTk-EVG4_z7G53wBLYT8&libraries=places"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places"></script>
 
 	<script src="<?php echo site_url('assets/js/bootstrap.min.js'); ?>" type="text/javascript" charset="utf-8"></script>
 	<script src="<?php echo site_url('assets/js/script.js'); ?>" type="text/javascript" charset="utf-8"></script>
